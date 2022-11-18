@@ -4,11 +4,8 @@
 git
 ㅎㅎㅎ 테스트 중이지롱
 ㅎㅎ 테스트
-다시 수정
+다시 수정dc
 print('hello world')
-<<<<<<< HEAD
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-=======
 
 상대방 폴더에 접근하려면 
 github에서 상대방 아이디 쓰고 
@@ -16,5 +13,5 @@ github에서 상대방 아이디 쓰고
 내용 적고  add .
 git commit -m "헬로우"
 git push 한다 
->>>>>>> 8e652ef168dd33d5061d7b5ca114dd8053a8480f
 g
+아니 이거 테스트야? 아니야? 이거 테스트인가? 뭐지 뭘까? 테스트인가요?
